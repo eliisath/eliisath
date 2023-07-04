@@ -1,7 +1,7 @@
+![elii1](https://github.com/eliisath/eliisath/assets/136271906/5893b776-4303-4706-8db7-38dd8fe8a88a)
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5eDN5bWVibmQ3dGc5a3puOTc1Z2hxamdoc3Vuand1dWo3YjBocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"
         width="250" />
-    <h1 align="center">Hola soy Elisa</h1>
     <h2 align="center"> Apasionada por la tecnología, decidí continuar de forma autodidacta, me enfoque en hacer cursos
         actualizados y pequeños proyectos logrando habilidades en:
         HTML5.
