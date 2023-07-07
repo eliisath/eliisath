@@ -5,15 +5,14 @@
         width="250" />
     <br>
       <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <h2 align="center"> Apasionada por la tecnología, decidí continuar de forma autodidacta, me enfoque en hacer cursos
-        actualizados y pequeños proyectos logrando habilidades en:
+    <h2 align="center"> Apasionada por la tecnología con habilidades en:
         <br>
         HTML5.
         CSS, aplicando librerias tanto de CSS como de Bootstrap.
         JavaScript, con conocimientos en JQuery y TypeScript.
         Git, GitHub, NPM.
         <br>
-        Actualmente me encuentro aprendiendo Desarrollo BackEnd con Node.Js y Express.Js, manejando Bases de Datos NoSQL
+        Actualmente me encuentro aprendiendo Angular y Desarrollo BackEnd con Node.Js y Express.Js, manejando Bases de Datos NoSQL
         con MongoDB y Mongoose.</h2>
 </div>
 
