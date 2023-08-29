@@ -10,10 +10,10 @@
         HTML5.
         CSS, aplicando librerias tanto de CSS como de Bootstrap.
         JavaScript, con conocimientos en JQuery y TypeScript.
-        Git, GitHub, NPM.
+        Git, GitHub.
         <br>
-        Actualmente me encuentro aprendiendo Angular y Desarrollo BackEnd con Node.Js y Express.Js, manejando Bases de Datos NoSQL
-        con MongoDB y Mongoose.</h2>
+        En la parte del Desarrollo BackEnd reforzando conocimientos de Node.Js y Express.Js, manejando Bases de Datos NoSQL
+        con MongoDB.</h2>
 </div>
 
 <div align="left">
