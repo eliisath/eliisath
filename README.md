@@ -8,8 +8,9 @@
 </div>
 
 <div align="center">
-     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&duration=4970&pause=996&color=F7B9DB&width=435&lines=Mis+Habilidades" alt="Typing SVG"/>
+    <br>
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&duration=4970&pause=996&color=BD8EA8&width=435&lines=Skills" alt="Typing SVG"/>
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
         width="60" height="60" />
