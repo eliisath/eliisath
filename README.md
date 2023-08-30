@@ -1,22 +1,16 @@
-![elii1](https://github.com/eliisath/eliisath/assets/136271906/5893b776-4303-4706-8db7-38dd8fe8a88a)
+
 <div id="header" align="center">
     <br>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5eDN5bWVibmQ3dGc5a3puOTc1Z2hxamdoc3Vuand1dWo3YjBocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"
         width="250" />
     <br>
-      <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <h2 align="center"> Apasionada por la tecnología con habilidades en:
-        <br>
-        HTML5.
-        CSS, aplicando librerias tanto de CSS como de Bootstrap.
-        JavaScript, con conocimientos en JQuery y TypeScript.
-        Git, GitHub.
-        <br>
-        En la parte del Desarrollo BackEnd reforzando conocimientos de Node.Js y Express.Js, manejando Bases de Datos NoSQL
-        con MongoDB.</h2>
+    <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </div>
 
-<div align="left">
+<div align="center">
+     <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&duration=4970&pause=996&color=F7B9DB&width=435&lines=Mis+Habilidades" alt="Typing SVG"/>
+    <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
         width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS"
