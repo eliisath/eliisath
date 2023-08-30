@@ -20,6 +20,8 @@
         alt="Bootstrap" width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript"
         alt="JavaScript" width="60" height="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg" title="Angular.Js"
+        alt="JavaScript" width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery"
         width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript"
@@ -30,7 +32,7 @@
         alt="GitHub" width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM"
         width="60" height="60" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.Js"
         alt="nodejs" width="80" height="80" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
         title="MongoDB" alt="MongoDB" width="80" height="80" />
