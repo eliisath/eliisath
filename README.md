@@ -1,10 +1,10 @@
-
+![ELISA](https://github.com/eliisath/eliisath/assets/136271906/e8f80536-c540-4d74-86c3-3e194953c52f)
 <div id="header" align="center">
+    <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <br>
     <br>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5eDN5bWVibmQ3dGc5a3puOTc1Z2hxamdoc3Vuand1dWo3YjBocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"
         width="250" />
-    <br>
-    <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </div>
 
 <div align="center">
