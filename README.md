@@ -1,4 +1,4 @@
-![ELISA](https://github.com/eliisath/eliisath/assets/136271906/e8f80536-c540-4d74-86c3-3e194953c52f)
+![ELISA (1)](https://github.com/eliisath/eliisath/assets/136271906/9eecf745-5f03-428f-85f0-964c027954ef)
 <div id="header" align="center">
     <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br>
