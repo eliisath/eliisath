@@ -21,7 +21,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript"
         alt="JavaScript" width="60" height="60" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg" title="Angular.Js"
-        alt="Angular.Js" width="60" height="60" />
+        alt="Angular" width="60" height="60" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
+         alt="React.Js" width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery"
         width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript"
@@ -40,7 +42,7 @@
 <br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E5283A7&width=435&lines=I%E2%80%99m+currently+learning" alt="Typing SVG"/> 
 <br>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
-        title="React.Js" alt="React.Js" width="80" height="80" />
+     <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg
+        title="Java" alt="Java" width="80" height="80" />
 </div>
 
