@@ -20,10 +20,10 @@
         alt="Bootstrap" width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript"
         alt="JavaScript" width="60" height="60" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg" title="Angular.Js"
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular"
         alt="Angular" width="60" height="60" />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
-         alt="React.Js" width="60" height="60" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"
+         alt="React" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery"
         width="60" height="60" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript"
