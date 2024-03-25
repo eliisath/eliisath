@@ -1,4 +1,4 @@
-![ELISA (1)](https://github.com/eliisath/eliisath/assets/136271906/9eecf745-5f03-428f-85f0-964c027954ef)
+![Banner de Linkedin Asistente Virtual Aesthetic Rosa y rojo](https://github.com/eliisath/eliisath/assets/136271906/ffc6f2e7-10ad-4eb3-9dfe-32d201d58e3a)
 <div id="header" align="center">
     <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br>
