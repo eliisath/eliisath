@@ -1,4 +1,3 @@
-![Eli](https://github.com/eliisath/eliisath/assets/136271906/fe52153a-8f8c-4954-89f3-467163a4042e)
 <div id="header" align="center">
     <a href="https://www.linkedin.com/in/elisatoro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br>
